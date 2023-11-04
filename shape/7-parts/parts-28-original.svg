@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="50px" viewBox="0 0 98 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>28</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.539457775">
+        <g id="形状描摹" transform="translate(-1066.000000, -1204.000000)" stroke="#3D4242">
+            <g id="28" transform="translate(1067.000000, 1205.000000)">
+                <rect id="矩形" x="0" y="0" width="96" height="48" rx="4"></rect>
+                <circle id="椭圆形" cx="8" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="88" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="88" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="8" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="88" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="8" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="24" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

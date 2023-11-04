@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="26px" viewBox="0 0 182 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>17</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.539457775">
+        <g id="形状描摹" transform="translate(-305.000000, -1228.000000)" stroke="#3D4242">
+            <g id="17" transform="translate(306.000000, 1229.000000)">
+                <path d="M140,0 C143.554043,0 146.747223,1.54504094 148.944508,4.00009149 L172,4 C176.418278,4 180,7.581722 180,12 C180,16.418278 176.418278,20 172,20 L148.943607,20.0009146 C146.746351,22.4553812 143.553558,24 140,24 C136.446442,24 133.253649,22.4553812 131.056393,20.0009146 L20.9436073,20.0009146 C18.7463507,22.4553812 15.5535579,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C15.5540434,0 18.7472232,1.54504094 20.9445079,4.00009149 L131.055492,4.00009149 C133.252777,1.54504094 136.445957,0 140,0 Z" id="路径"></path>
+                <circle id="椭圆形" cx="28" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="12" cy="12" r="8"></circle>
+                <circle id="椭圆形" cx="44" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="60" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="76" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="108" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="92" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="124" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="156" cy="12" r="4"></circle>
+                <circle id="椭圆形" cx="140" cy="12" r="8"></circle>
+                <circle id="椭圆形" cx="172" cy="12" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

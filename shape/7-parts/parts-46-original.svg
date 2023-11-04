@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="50px" viewBox="0 0 114 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>46</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.539457775">
+        <g id="形状描摹" transform="translate(-807.000000, -1716.000000)" stroke="#3D4242">
+            <g id="46" transform="translate(808.000000, 1717.000000)">
+                <rect id="矩形" x="0" y="0" width="112.000001" height="48" rx="24"></rect>
+                <circle id="椭圆形" cx="24" cy="24" r="8"></circle>
+                <circle id="椭圆形" cx="8" cy="23.9298096" r="4"></circle>
+                <circle id="椭圆形" transform="translate(24.000000, 8.000000) rotate(90.000000) translate(-24.000000, -8.000000) " cx="24" cy="8" r="3"></circle>
+                <circle id="椭圆形" transform="translate(24.000000, 40.000000) rotate(90.000000) translate(-24.000000, -40.000000) " cx="24" cy="40" r="3"></circle>
+                <circle id="椭圆形" transform="translate(12.711108, 12.626380) rotate(45.000000) translate(-12.711108, -12.626380) " cx="12.7111076" cy="12.6263802" r="4"></circle>
+                <circle id="椭圆形" transform="translate(35.288892, 35.303429) rotate(45.000000) translate(-35.288892, -35.303429) " cx="35.2888924" cy="35.3034293" r="4"></circle>
+                <circle id="椭圆形" transform="translate(35.288892, 12.626380) scale(-1, 1) rotate(45.000000) translate(-35.288892, -12.626380) " cx="35.2888924" cy="12.6263802" r="4"></circle>
+                <circle id="椭圆形" transform="translate(12.711108, 35.303429) scale(-1, 1) rotate(45.000000) translate(-12.711108, -35.303429) " cx="12.7111076" cy="35.3034293" r="4"></circle>
+                <circle id="椭圆形" transform="translate(88.035120, 24.000000) rotate(90.000000) translate(-88.035120, -24.000000) " cx="88.0351197" cy="24" r="8"></circle>
+                <circle id="椭圆形" transform="translate(88.035120, 8.000000) rotate(90.000000) translate(-88.035120, -8.000000) " cx="88.0351197" cy="8" r="4"></circle>
+                <circle id="椭圆形" transform="translate(88.035120, 40.000000) rotate(90.000000) translate(-88.035120, -40.000000) " cx="88.0351197" cy="40" r="4"></circle>
+                <circle id="椭圆形" transform="translate(104.035120, 24.000000) rotate(180.000000) translate(-104.035120, -24.000000) " cx="104.03512" cy="24" r="3"></circle>
+                <circle id="椭圆形" transform="translate(72.035120, 24.000000) rotate(180.000000) translate(-72.035120, -24.000000) " cx="72.0351197" cy="24" r="3"></circle>
+                <circle id="椭圆形" transform="translate(99.408740, 12.711108) rotate(135.000000) translate(-99.408740, -12.711108) " cx="99.4087395" cy="12.7111076" r="4"></circle>
+                <circle id="椭圆形" transform="translate(76.731690, 35.288892) rotate(135.000000) translate(-76.731690, -35.288892) " cx="76.7316904" cy="35.2888924" r="4"></circle>
+                <circle id="椭圆形" transform="translate(99.408740, 35.288892) scale(-1, 1) rotate(135.000000) translate(-99.408740, -35.288892) " cx="99.4087395" cy="35.2888924" r="4"></circle>
+                <circle id="椭圆形" transform="translate(76.731690, 12.711108) scale(-1, 1) rotate(135.000000) translate(-76.731690, -12.711108) " cx="76.7316904" cy="12.7111076" r="4"></circle>
+                <circle id="椭圆形" transform="translate(56.000000, 24.000000) rotate(90.000000) translate(-56.000000, -24.000000) " cx="56.0000003" cy="24" r="8"></circle>
+                <circle id="椭圆形" transform="translate(56.000000, 8.000000) rotate(90.000000) translate(-56.000000, -8.000000) " cx="56.0000003" cy="8" r="4"></circle>
+                <circle id="椭圆形" transform="translate(56.000000, 40.000000) rotate(90.000000) translate(-56.000000, -40.000000) " cx="56.0000003" cy="40" r="4"></circle>
+                <circle id="椭圆形" transform="translate(40.000000, 23.929810) rotate(180.000000) translate(-40.000000, -23.929810) " cx="40.0000003" cy="23.9298096" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="18px" viewBox="0 0 66 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>19</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.539457775">
+        <g id="形状描摹" transform="translate(-1066.000000, -375.000000)" stroke="#3D4242">
+            <g id="19" transform="translate(1067.000000, 376.000000)">
+                <polygon id="路径" points="32 4.686 36.687 0 43.313 0 48 4.686 52.687 0 59.313 0 64 4.686 64 11.314 59.314 16 52.686 16 48 11.314 43.314 16 36.686 16 32 11.314 27.314 16 20.686 16 16 11.314 11.314 16 4.686 16 0 11.313 0 4.687 4.687 0 11.313 0 16 4.686 20.687 0 27.313 0"></polygon>
+                <circle id="椭圆形" cx="8" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="8" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

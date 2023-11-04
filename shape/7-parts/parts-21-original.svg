@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="50px" viewBox="0 0 82 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>21</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.539457775">
+        <g id="形状描摹" transform="translate(-1063.000000, -488.000000)" stroke="#3D4242">
+            <g id="21" transform="translate(1064.000000, 489.000000)">
+                <rect id="矩形" x="0" y="0" width="80" height="48" rx="4"></rect>
+                <circle id="椭圆形" cx="8" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="8" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="24" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="8" r="4"></circle>
+                <circle id="椭圆形" cx="8" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="24" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="40" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="56" cy="40" r="4"></circle>
+                <circle id="椭圆形" cx="72" cy="40" r="4"></circle>
+                <path d="M56,16 C60.418278,16 64,19.581722 64,24 C64,28.418278 60.418278,32 56,32 C53.0393493,32 50.4543312,30.3917256 49.0709285,28.0011597 L30.9290715,28.0011597 C29.5456688,30.3917256 26.9606507,32 24,32 C19.581722,32 16,28.418278 16,24 C16,19.581722 19.581722,16 24,16 C26.9610634,16 29.5463894,17.6087228 30.9296499,19.99984 L49.0703501,19.99984 C50.4536106,17.6087228 53.0389366,16 56,16 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -7,12 +7,6 @@ const JSONData = {
 }
 
 const group = [
-    // {
-    //     label: '卡通',
-    //     value: '',
-    //     start: 460,
-    //     end: 489
-    // },
     {
         label: '卡通水果',
         value: 'fruits',
@@ -37,18 +31,6 @@ const group = [
         start: 50,
         end: 75
     },
-    // {
-    //     label: '水果',
-    //     value: '',
-    //     start: 76,
-    //     end: 89
-    // },
-    // {
-    //     label: '衣服',
-    //     value: '',
-    //     start: 89,
-    //     end: 136
-    // },
     {
         label: '旗帜',
         value: 'flags',
@@ -91,12 +73,6 @@ const group = [
         start: 262,
         end: 270
     },
-    // {
-    //     label: '卡通水果',
-    //     value: '',
-    //     start: 271,
-    //     end: 300
-    // },
     {
         label: '复古',
         value: 'vintage',
