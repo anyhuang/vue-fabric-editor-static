@@ -101,15 +101,15 @@ const group = [
 
 
 
-const baseUrl = 'https://github.com/anyhuang/vue-fabric-editor-static/blob/main/svg/'
+const baseUrl = 'https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/svg/'
 JSONData.data = group.map((item, i) => {
     const list = []
     for (let index = item.start; index < item.end; index++) {
         list.push({
             "label": item.label + index,
             "value": i + '-' + index,
-            "tempUrl": baseUrl + index + ".svg" + "?raw=true",
-            "src": baseUrl + index + ".svg"+ "?raw=true"
+            "tempUrl": baseUrl + index + ".svg",
+            "src": baseUrl + index + ".svg"
         })
     }
     return {

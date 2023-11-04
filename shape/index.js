@@ -52,12 +52,13 @@ const group = [
   },
 ];
 
-const baseUrl = "https://github.com/anyhuang/vue-fabric-editor-static/blob/main/shape/";
+const baseUrl =
+  "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/";
 JSONData.data = group.map((group_item, i) => {
   const list = [];
   let arr = fs.readdirSync(group_item.dir);
   arr.forEach((item) => {
-    let name  = item.split("-");
+    let name = item.split("-");
     // 去掉第一个
     name.shift();
     name = name.join("-");
@@ -67,11 +68,9 @@ JSONData.data = group.map((group_item, i) => {
     list.push({
       label: group_item.label + name,
       value: name,
-      tempUrl: baseUrl + group_item.dir +'/' + item + '?raw=true',
-      src:  baseUrl + group_item.dir +'/' + item + '?raw=true',
+      tempUrl: baseUrl + group_item.dir + "/" + item,
+      src: baseUrl + group_item.dir + "/" + item,
     });
-
-   
   });
 
   return {
