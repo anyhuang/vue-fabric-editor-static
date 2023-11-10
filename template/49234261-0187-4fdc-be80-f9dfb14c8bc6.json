@@ -35,7 +35,9 @@
       "skewY": 0,
       "rx": 0,
       "ry": 0,
-      "id": "workspace"
+      "id": "workspace",
+      "selectable": false,
+			"hasControls": false
     },
     {
       "type": "rect",
