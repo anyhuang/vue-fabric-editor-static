@@ -46,9 +46,14 @@ const group = [
     dir: "7-parts",
   },
   {
+    label: "嗨兴",
+    value: "hingin",
+    dir: "8-hingin",
+  },
+  {
     label: "其他",
     value: "other",
-    dir: "8-other",
+    dir: "9-other",
   },
 ];
 
