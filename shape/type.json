@@ -4123,320 +4123,1700 @@
       ]
     },
     {
+      "label": "fabric",
+      "value": "fabric",
+      "list": [
+        {
+          "label": "fabric1",
+          "value": "1",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-1.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-1.svg"
+        },
+        {
+          "label": "fabric10",
+          "value": "10",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-10.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-10.svg"
+        },
+        {
+          "label": "fabric100",
+          "value": "100",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-100.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-100.svg"
+        },
+        {
+          "label": "fabric101",
+          "value": "101",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-101.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-101.svg"
+        },
+        {
+          "label": "fabric102",
+          "value": "102",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-102.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-102.svg"
+        },
+        {
+          "label": "fabric103",
+          "value": "103",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-103.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-103.svg"
+        },
+        {
+          "label": "fabric104",
+          "value": "104",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-104.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-104.svg"
+        },
+        {
+          "label": "fabric105",
+          "value": "105",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-105.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-105.svg"
+        },
+        {
+          "label": "fabric106",
+          "value": "106",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-106.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-106.svg"
+        },
+        {
+          "label": "fabric107",
+          "value": "107",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-107.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-107.svg"
+        },
+        {
+          "label": "fabric108",
+          "value": "108",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-108.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-108.svg"
+        },
+        {
+          "label": "fabric109",
+          "value": "109",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-109.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-109.svg"
+        },
+        {
+          "label": "fabric11",
+          "value": "11",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-11.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-11.svg"
+        },
+        {
+          "label": "fabric110",
+          "value": "110",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-110.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-110.svg"
+        },
+        {
+          "label": "fabric111",
+          "value": "111",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-111.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-111.svg"
+        },
+        {
+          "label": "fabric112",
+          "value": "112",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-112.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-112.svg"
+        },
+        {
+          "label": "fabric113",
+          "value": "113",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-113.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-113.svg"
+        },
+        {
+          "label": "fabric114",
+          "value": "114",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-114.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-114.svg"
+        },
+        {
+          "label": "fabric115",
+          "value": "115",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-115.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-115.svg"
+        },
+        {
+          "label": "fabric116",
+          "value": "116",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-116.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-116.svg"
+        },
+        {
+          "label": "fabric117",
+          "value": "117",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-117.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-117.svg"
+        },
+        {
+          "label": "fabric118",
+          "value": "118",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-118.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-118.svg"
+        },
+        {
+          "label": "fabric119",
+          "value": "119",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-119.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-119.svg"
+        },
+        {
+          "label": "fabric12",
+          "value": "12",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-12.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-12.svg"
+        },
+        {
+          "label": "fabric120",
+          "value": "120",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-120.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-120.svg"
+        },
+        {
+          "label": "fabric121",
+          "value": "121",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-121.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-121.svg"
+        },
+        {
+          "label": "fabric122",
+          "value": "122",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-122.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-122.svg"
+        },
+        {
+          "label": "fabric123",
+          "value": "123",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-123.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-123.svg"
+        },
+        {
+          "label": "fabric124",
+          "value": "124",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-124.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-124.svg"
+        },
+        {
+          "label": "fabric125",
+          "value": "125",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-125.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-125.svg"
+        },
+        {
+          "label": "fabric126",
+          "value": "126",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-126.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-126.svg"
+        },
+        {
+          "label": "fabric127",
+          "value": "127",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-127.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-127.svg"
+        },
+        {
+          "label": "fabric128",
+          "value": "128",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-128.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-128.svg"
+        },
+        {
+          "label": "fabric129",
+          "value": "129",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-129.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-129.svg"
+        },
+        {
+          "label": "fabric13",
+          "value": "13",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-13.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-13.svg"
+        },
+        {
+          "label": "fabric130",
+          "value": "130",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-130.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-130.svg"
+        },
+        {
+          "label": "fabric131",
+          "value": "131",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-131.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-131.svg"
+        },
+        {
+          "label": "fabric132",
+          "value": "132",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-132.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-132.svg"
+        },
+        {
+          "label": "fabric133",
+          "value": "133",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-133.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-133.svg"
+        },
+        {
+          "label": "fabric134",
+          "value": "134",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-134.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-134.svg"
+        },
+        {
+          "label": "fabric135",
+          "value": "135",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-135.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-135.svg"
+        },
+        {
+          "label": "fabric136",
+          "value": "136",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-136.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-136.svg"
+        },
+        {
+          "label": "fabric137",
+          "value": "137",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-137.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-137.svg"
+        },
+        {
+          "label": "fabric138",
+          "value": "138",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-138.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-138.svg"
+        },
+        {
+          "label": "fabric139",
+          "value": "139",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-139.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-139.svg"
+        },
+        {
+          "label": "fabric14",
+          "value": "14",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-14.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-14.svg"
+        },
+        {
+          "label": "fabric140",
+          "value": "140",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-140.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-140.svg"
+        },
+        {
+          "label": "fabric141",
+          "value": "141",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-141.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-141.svg"
+        },
+        {
+          "label": "fabric142",
+          "value": "142",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-142.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-142.svg"
+        },
+        {
+          "label": "fabric143",
+          "value": "143",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-143.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-143.svg"
+        },
+        {
+          "label": "fabric144",
+          "value": "144",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-144.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-144.svg"
+        },
+        {
+          "label": "fabric145",
+          "value": "145",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-145.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-145.svg"
+        },
+        {
+          "label": "fabric146",
+          "value": "146",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-146.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-146.svg"
+        },
+        {
+          "label": "fabric147",
+          "value": "147",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-147.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-147.svg"
+        },
+        {
+          "label": "fabric148",
+          "value": "148",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-148.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-148.svg"
+        },
+        {
+          "label": "fabric149",
+          "value": "149",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-149.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-149.svg"
+        },
+        {
+          "label": "fabric15",
+          "value": "15",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-15.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-15.svg"
+        },
+        {
+          "label": "fabric150",
+          "value": "150",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-150.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-150.svg"
+        },
+        {
+          "label": "fabric151",
+          "value": "151",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-151.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-151.svg"
+        },
+        {
+          "label": "fabric152",
+          "value": "152",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-152.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-152.svg"
+        },
+        {
+          "label": "fabric153",
+          "value": "153",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-153.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-153.svg"
+        },
+        {
+          "label": "fabric154",
+          "value": "154",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-154.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-154.svg"
+        },
+        {
+          "label": "fabric155",
+          "value": "155",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-155.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-155.svg"
+        },
+        {
+          "label": "fabric156",
+          "value": "156",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-156.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-156.svg"
+        },
+        {
+          "label": "fabric157",
+          "value": "157",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-157.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-157.svg"
+        },
+        {
+          "label": "fabric158",
+          "value": "158",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-158.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-158.svg"
+        },
+        {
+          "label": "fabric159",
+          "value": "159",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-159.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-159.svg"
+        },
+        {
+          "label": "fabric16",
+          "value": "16",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-16.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-16.svg"
+        },
+        {
+          "label": "fabric160",
+          "value": "160",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-160.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-160.svg"
+        },
+        {
+          "label": "fabric161",
+          "value": "161",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-161.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-161.svg"
+        },
+        {
+          "label": "fabric162",
+          "value": "162",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-162.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-162.svg"
+        },
+        {
+          "label": "fabric163",
+          "value": "163",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-163.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-163.svg"
+        },
+        {
+          "label": "fabric164",
+          "value": "164",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-164.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-164.svg"
+        },
+        {
+          "label": "fabric165",
+          "value": "165",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-165.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-165.svg"
+        },
+        {
+          "label": "fabric166",
+          "value": "166",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-166.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-166.svg"
+        },
+        {
+          "label": "fabric167",
+          "value": "167",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-167.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-167.svg"
+        },
+        {
+          "label": "fabric168",
+          "value": "168",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-168.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-168.svg"
+        },
+        {
+          "label": "fabric169",
+          "value": "169",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-169.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-169.svg"
+        },
+        {
+          "label": "fabric17",
+          "value": "17",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-17.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-17.svg"
+        },
+        {
+          "label": "fabric170",
+          "value": "170",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-170.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-170.svg"
+        },
+        {
+          "label": "fabric171",
+          "value": "171",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-171.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-171.svg"
+        },
+        {
+          "label": "fabric172",
+          "value": "172",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-172.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-172.svg"
+        },
+        {
+          "label": "fabric173",
+          "value": "173",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-173.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-173.svg"
+        },
+        {
+          "label": "fabric174",
+          "value": "174",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-174.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-174.svg"
+        },
+        {
+          "label": "fabric175",
+          "value": "175",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-175.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-175.svg"
+        },
+        {
+          "label": "fabric176",
+          "value": "176",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-176.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-176.svg"
+        },
+        {
+          "label": "fabric177",
+          "value": "177",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-177.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-177.svg"
+        },
+        {
+          "label": "fabric178",
+          "value": "178",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-178.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-178.svg"
+        },
+        {
+          "label": "fabric179",
+          "value": "179",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-179.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-179.svg"
+        },
+        {
+          "label": "fabric18",
+          "value": "18",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-18.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-18.svg"
+        },
+        {
+          "label": "fabric180",
+          "value": "180",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-180.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-180.svg"
+        },
+        {
+          "label": "fabric181",
+          "value": "181",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-181.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-181.svg"
+        },
+        {
+          "label": "fabric182",
+          "value": "182",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-182.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-182.svg"
+        },
+        {
+          "label": "fabric183",
+          "value": "183",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-183.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-183.svg"
+        },
+        {
+          "label": "fabric184",
+          "value": "184",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-184.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-184.svg"
+        },
+        {
+          "label": "fabric19",
+          "value": "19",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-19.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-19.svg"
+        },
+        {
+          "label": "fabric2",
+          "value": "2",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-2.svg"
+        },
+        {
+          "label": "fabric20",
+          "value": "20",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-20.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-20.svg"
+        },
+        {
+          "label": "fabric21",
+          "value": "21",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-21.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-21.svg"
+        },
+        {
+          "label": "fabric22",
+          "value": "22",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-22.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-22.svg"
+        },
+        {
+          "label": "fabric23",
+          "value": "23",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-23.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-23.svg"
+        },
+        {
+          "label": "fabric24",
+          "value": "24",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-24.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-24.svg"
+        },
+        {
+          "label": "fabric25",
+          "value": "25",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-25.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-25.svg"
+        },
+        {
+          "label": "fabric26",
+          "value": "26",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-26.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-26.svg"
+        },
+        {
+          "label": "fabric27",
+          "value": "27",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-27.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-27.svg"
+        },
+        {
+          "label": "fabric28",
+          "value": "28",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-28.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-28.svg"
+        },
+        {
+          "label": "fabric29",
+          "value": "29",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-29.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-29.svg"
+        },
+        {
+          "label": "fabric3",
+          "value": "3",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-3.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-3.svg"
+        },
+        {
+          "label": "fabric30",
+          "value": "30",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-30.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-30.svg"
+        },
+        {
+          "label": "fabric31",
+          "value": "31",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-31.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-31.svg"
+        },
+        {
+          "label": "fabric32",
+          "value": "32",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-32.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-32.svg"
+        },
+        {
+          "label": "fabric33",
+          "value": "33",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-33.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-33.svg"
+        },
+        {
+          "label": "fabric34",
+          "value": "34",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-34.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-34.svg"
+        },
+        {
+          "label": "fabric35",
+          "value": "35",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-35.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-35.svg"
+        },
+        {
+          "label": "fabric36",
+          "value": "36",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-36.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-36.svg"
+        },
+        {
+          "label": "fabric37",
+          "value": "37",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-37.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-37.svg"
+        },
+        {
+          "label": "fabric38",
+          "value": "38",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-38.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-38.svg"
+        },
+        {
+          "label": "fabric39",
+          "value": "39",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-39.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-39.svg"
+        },
+        {
+          "label": "fabric4",
+          "value": "4",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-4.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-4.svg"
+        },
+        {
+          "label": "fabric40",
+          "value": "40",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-40.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-40.svg"
+        },
+        {
+          "label": "fabric41",
+          "value": "41",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-41.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-41.svg"
+        },
+        {
+          "label": "fabric42",
+          "value": "42",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-42.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-42.svg"
+        },
+        {
+          "label": "fabric43",
+          "value": "43",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-43.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-43.svg"
+        },
+        {
+          "label": "fabric44",
+          "value": "44",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-44.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-44.svg"
+        },
+        {
+          "label": "fabric45",
+          "value": "45",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-45.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-45.svg"
+        },
+        {
+          "label": "fabric46",
+          "value": "46",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-46.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-46.svg"
+        },
+        {
+          "label": "fabric47",
+          "value": "47",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-47.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-47.svg"
+        },
+        {
+          "label": "fabric48",
+          "value": "48",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-48.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-48.svg"
+        },
+        {
+          "label": "fabric49",
+          "value": "49",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-49.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-49.svg"
+        },
+        {
+          "label": "fabric5",
+          "value": "5",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-5.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-5.svg"
+        },
+        {
+          "label": "fabric50",
+          "value": "50",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-50.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-50.svg"
+        },
+        {
+          "label": "fabric51",
+          "value": "51",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-51.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-51.svg"
+        },
+        {
+          "label": "fabric52",
+          "value": "52",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-52.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-52.svg"
+        },
+        {
+          "label": "fabric53",
+          "value": "53",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-53.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-53.svg"
+        },
+        {
+          "label": "fabric54",
+          "value": "54",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-54.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-54.svg"
+        },
+        {
+          "label": "fabric55",
+          "value": "55",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-55.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-55.svg"
+        },
+        {
+          "label": "fabric56",
+          "value": "56",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-56.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-56.svg"
+        },
+        {
+          "label": "fabric57",
+          "value": "57",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-57.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-57.svg"
+        },
+        {
+          "label": "fabric58",
+          "value": "58",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-58.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-58.svg"
+        },
+        {
+          "label": "fabric59",
+          "value": "59",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-59.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-59.svg"
+        },
+        {
+          "label": "fabric6",
+          "value": "6",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-6.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-6.svg"
+        },
+        {
+          "label": "fabric60",
+          "value": "60",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-60.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-60.svg"
+        },
+        {
+          "label": "fabric61",
+          "value": "61",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-61.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-61.svg"
+        },
+        {
+          "label": "fabric62",
+          "value": "62",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-62.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-62.svg"
+        },
+        {
+          "label": "fabric63",
+          "value": "63",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-63.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-63.svg"
+        },
+        {
+          "label": "fabric64",
+          "value": "64",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-64.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-64.svg"
+        },
+        {
+          "label": "fabric65",
+          "value": "65",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-65.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-65.svg"
+        },
+        {
+          "label": "fabric66",
+          "value": "66",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-66.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-66.svg"
+        },
+        {
+          "label": "fabric67",
+          "value": "67",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-67.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-67.svg"
+        },
+        {
+          "label": "fabric68",
+          "value": "68",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-68.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-68.svg"
+        },
+        {
+          "label": "fabric69",
+          "value": "69",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-69.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-69.svg"
+        },
+        {
+          "label": "fabric7",
+          "value": "7",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-7.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-7.svg"
+        },
+        {
+          "label": "fabric70",
+          "value": "70",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-70.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-70.svg"
+        },
+        {
+          "label": "fabric71",
+          "value": "71",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-71.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-71.svg"
+        },
+        {
+          "label": "fabric72",
+          "value": "72",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-72.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-72.svg"
+        },
+        {
+          "label": "fabric73",
+          "value": "73",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-73.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-73.svg"
+        },
+        {
+          "label": "fabric74",
+          "value": "74",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-74.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-74.svg"
+        },
+        {
+          "label": "fabric75",
+          "value": "75",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-75.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-75.svg"
+        },
+        {
+          "label": "fabric76",
+          "value": "76",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-76.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-76.svg"
+        },
+        {
+          "label": "fabric77",
+          "value": "77",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-77.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-77.svg"
+        },
+        {
+          "label": "fabric78",
+          "value": "78",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-78.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-78.svg"
+        },
+        {
+          "label": "fabric79",
+          "value": "79",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-79.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-79.svg"
+        },
+        {
+          "label": "fabric8",
+          "value": "8",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-8.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-8.svg"
+        },
+        {
+          "label": "fabric80",
+          "value": "80",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-80.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-80.svg"
+        },
+        {
+          "label": "fabric81",
+          "value": "81",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-81.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-81.svg"
+        },
+        {
+          "label": "fabric82",
+          "value": "82",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-82.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-82.svg"
+        },
+        {
+          "label": "fabric83",
+          "value": "83",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-83.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-83.svg"
+        },
+        {
+          "label": "fabric84",
+          "value": "84",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-84.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-84.svg"
+        },
+        {
+          "label": "fabric85",
+          "value": "85",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-85.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-85.svg"
+        },
+        {
+          "label": "fabric86",
+          "value": "86",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-86.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-86.svg"
+        },
+        {
+          "label": "fabric87",
+          "value": "87",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-87.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-87.svg"
+        },
+        {
+          "label": "fabric88",
+          "value": "88",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-88.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-88.svg"
+        },
+        {
+          "label": "fabric89",
+          "value": "89",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-89.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-89.svg"
+        },
+        {
+          "label": "fabric9",
+          "value": "9",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-9.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-9.svg"
+        },
+        {
+          "label": "fabric90",
+          "value": "90",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-90.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-90.svg"
+        },
+        {
+          "label": "fabric91",
+          "value": "91",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-91.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-91.svg"
+        },
+        {
+          "label": "fabric92",
+          "value": "92",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-92.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-92.svg"
+        },
+        {
+          "label": "fabric93",
+          "value": "93",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-93.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-93.svg"
+        },
+        {
+          "label": "fabric94",
+          "value": "94",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-94.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-94.svg"
+        },
+        {
+          "label": "fabric95",
+          "value": "95",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-95.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-95.svg"
+        },
+        {
+          "label": "fabric96",
+          "value": "96",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-96.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-96.svg"
+        },
+        {
+          "label": "fabric97",
+          "value": "97",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-97.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-97.svg"
+        },
+        {
+          "label": "fabric98",
+          "value": "98",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-98.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-98.svg"
+        },
+        {
+          "label": "fabric99",
+          "value": "99",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-99.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-99.svg"
+        },
+        {
+          "label": "fabriccar_large_color_white",
+          "value": "car_large_color_white",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-car_large_color_white.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-car_large_color_white.svg"
+        },
+        {
+          "label": "fabricclippath-1",
+          "value": "clippath-1",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-1.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-1.svg"
+        },
+        {
+          "label": "fabricclippath-2",
+          "value": "clippath-2",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-2.svg"
+        },
+        {
+          "label": "fabricclippath-3",
+          "value": "clippath-3",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-3.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-3.svg"
+        },
+        {
+          "label": "fabricclippath-4",
+          "value": "clippath-4",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-4.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-4.svg"
+        },
+        {
+          "label": "fabricclippath-5",
+          "value": "clippath-5",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-5.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-5.svg"
+        },
+        {
+          "label": "fabricclippath-6",
+          "value": "clippath-6",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-6.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-6.svg"
+        },
+        {
+          "label": "fabricclippath-7",
+          "value": "clippath-7",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-7.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-7.svg"
+        },
+        {
+          "label": "fabricclippath-8",
+          "value": "clippath-8",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-8.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-clippath-8.svg"
+        },
+        {
+          "label": "fabricsvg_linear_1",
+          "value": "svg_linear_1",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_1.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_1.svg"
+        },
+        {
+          "label": "fabricsvg_linear_2",
+          "value": "svg_linear_2",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_2.svg"
+        },
+        {
+          "label": "fabricsvg_linear_3",
+          "value": "svg_linear_3",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_3.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_3.svg"
+        },
+        {
+          "label": "fabricsvg_linear_4",
+          "value": "svg_linear_4",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_4.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_4.svg"
+        },
+        {
+          "label": "fabricsvg_linear_5",
+          "value": "svg_linear_5",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_5.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_5.svg"
+        },
+        {
+          "label": "fabricsvg_linear_6",
+          "value": "svg_linear_6",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_6.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_6.svg"
+        },
+        {
+          "label": "fabricsvg_linear_7",
+          "value": "svg_linear_7",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_7.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_7.svg"
+        },
+        {
+          "label": "fabricsvg_linear_8",
+          "value": "svg_linear_8",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_8.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_linear_8.svg"
+        },
+        {
+          "label": "fabricsvg_radial_1",
+          "value": "svg_radial_1",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_1.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_1.svg"
+        },
+        {
+          "label": "fabricsvg_radial_10",
+          "value": "svg_radial_10",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_10.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_10.svg"
+        },
+        {
+          "label": "fabricsvg_radial_11",
+          "value": "svg_radial_11",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_11.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_11.svg"
+        },
+        {
+          "label": "fabricsvg_radial_12",
+          "value": "svg_radial_12",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_12.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_12.svg"
+        },
+        {
+          "label": "fabricsvg_radial_13",
+          "value": "svg_radial_13",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_13.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_13.svg"
+        },
+        {
+          "label": "fabricsvg_radial_2",
+          "value": "svg_radial_2",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_2.svg"
+        },
+        {
+          "label": "fabricsvg_radial_3",
+          "value": "svg_radial_3",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_3.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_3.svg"
+        },
+        {
+          "label": "fabricsvg_radial_4",
+          "value": "svg_radial_4",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_4.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_4.svg"
+        },
+        {
+          "label": "fabricsvg_radial_5",
+          "value": "svg_radial_5",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_5.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_5.svg"
+        },
+        {
+          "label": "fabricsvg_radial_6",
+          "value": "svg_radial_6",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_6.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_6.svg"
+        },
+        {
+          "label": "fabricsvg_radial_8",
+          "value": "svg_radial_8",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_8.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_8.svg"
+        },
+        {
+          "label": "fabricsvg_radial_9",
+          "value": "svg_radial_9",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_9.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_radial_9.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_1",
+          "value": "svg_stroke_1",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_1.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_1.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_2",
+          "value": "svg_stroke_2",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_2.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_3",
+          "value": "svg_stroke_3",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_3.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_3.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_4",
+          "value": "svg_stroke_4",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_4.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_4.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_5",
+          "value": "svg_stroke_5",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_5.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_5.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_6",
+          "value": "svg_stroke_6",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_6.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_6.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_7",
+          "value": "svg_stroke_7",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_7.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_7.svg"
+        },
+        {
+          "label": "fabricsvg_stroke_8",
+          "value": "svg_stroke_8",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_8.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-svg_stroke_8.svg"
+        },
+        {
+          "label": "fabrictext01",
+          "value": "text01",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-text01.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-text01.svg"
+        },
+        {
+          "label": "fabrictextdecoration01",
+          "value": "textdecoration01",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-textdecoration01.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-textdecoration01.svg"
+        },
+        {
+          "label": "fabrictoap01",
+          "value": "toap01",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-toap01.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-toap01.svg"
+        },
+        {
+          "label": "fabrictref01",
+          "value": "tref01",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tref01.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tref01.svg"
+        },
+        {
+          "label": "fabrictspan01",
+          "value": "tspan01",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan01.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan01.svg"
+        },
+        {
+          "label": "fabrictspan02",
+          "value": "tspan02",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan02.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan02.svg"
+        },
+        {
+          "label": "fabrictspan03",
+          "value": "tspan03",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan03.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan03.svg"
+        },
+        {
+          "label": "fabrictspan04",
+          "value": "tspan04",
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan04.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-fabric/fabric-tspan04.svg"
+        }
+      ]
+    },
+    {
       "label": "其他",
       "value": "other",
       "list": [
         {
           "label": "其他airplane-plane-svgrepo-com-2",
           "value": "airplane-plane-svgrepo-com-2",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-airplane-plane-svgrepo-com-2.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-airplane-plane-svgrepo-com-2.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-airplane-plane-svgrepo-com-2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-airplane-plane-svgrepo-com-2.svg"
         },
         {
           "label": "其他airplane-plane-svgrepo-com",
           "value": "airplane-plane-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-airplane-plane-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-airplane-plane-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-airplane-plane-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-airplane-plane-svgrepo-com.svg"
         },
         {
           "label": "其他anchor-svgrepo-com",
           "value": "anchor-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-anchor-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-anchor-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-anchor-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-anchor-svgrepo-com.svg"
         },
         {
           "label": "其他badge-svgrepo-com",
           "value": "badge-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-badge-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-badge-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-badge-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-badge-svgrepo-com.svg"
         },
         {
           "label": "其他ball-basketball-game-svgrepo-com",
           "value": "ball-basketball-game-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-ball-basketball-game-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-ball-basketball-game-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-ball-basketball-game-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-ball-basketball-game-svgrepo-com.svg"
         },
         {
           "label": "其他ball-football-svgrepo-com",
           "value": "ball-football-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-ball-football-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-ball-football-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-ball-football-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-ball-football-svgrepo-com.svg"
         },
         {
           "label": "其他bat-sword-svgrepo-com",
           "value": "bat-sword-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bat-sword-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bat-sword-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bat-sword-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bat-sword-svgrepo-com.svg"
         },
         {
           "label": "其他bike-shape-svgrepo-com",
           "value": "bike-shape-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bike-shape-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bike-shape-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bike-shape-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bike-shape-svgrepo-com.svg"
         },
         {
           "label": "其他book-heart-love-svgrepo-com",
           "value": "book-heart-love-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-book-heart-love-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-book-heart-love-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-book-heart-love-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-book-heart-love-svgrepo-com.svg"
         },
         {
           "label": "其他bottle-svgrepo-com",
           "value": "bottle-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bottle-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-bottle-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bottle-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-bottle-svgrepo-com.svg"
         },
         {
           "label": "其他canoe-kayak-svgrepo-com",
           "value": "canoe-kayak-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-canoe-kayak-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-canoe-kayak-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-canoe-kayak-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-canoe-kayak-svgrepo-com.svg"
         },
         {
           "label": "其他car-suv-svgrepo-com",
           "value": "car-suv-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-car-suv-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-car-suv-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-car-suv-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-car-suv-svgrepo-com.svg"
         },
         {
           "label": "其他champagne-toast-svgrepo-com",
           "value": "champagne-toast-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-champagne-toast-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-champagne-toast-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-champagne-toast-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-champagne-toast-svgrepo-com.svg"
         },
         {
           "label": "其他coconut-cocktail-svgrepo-com",
           "value": "coconut-cocktail-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-coconut-cocktail-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-coconut-cocktail-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-coconut-cocktail-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-coconut-cocktail-svgrepo-com.svg"
         },
         {
           "label": "其他cross-shield-svgrepo-com",
           "value": "cross-shield-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-cross-shield-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-cross-shield-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-cross-shield-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-cross-shield-svgrepo-com.svg"
         },
         {
           "label": "其他crossed-axes-svgrepo-com",
           "value": "crossed-axes-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-crossed-axes-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-crossed-axes-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-crossed-axes-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-crossed-axes-svgrepo-com.svg"
         },
         {
           "label": "其他cutlery-knife-svgrepo-com",
           "value": "cutlery-knife-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-cutlery-knife-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-cutlery-knife-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-cutlery-knife-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-cutlery-knife-svgrepo-com.svg"
         },
         {
           "label": "其他dagger-svgrepo-com",
           "value": "dagger-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-dagger-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-dagger-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-dagger-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-dagger-svgrepo-com.svg"
         },
         {
           "label": "其他dog-bone-svgrepo-com",
           "value": "dog-bone-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-dog-bone-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-dog-bone-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-dog-bone-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-dog-bone-svgrepo-com.svg"
         },
         {
           "label": "其他eiffel-tower-svgrepo-com",
           "value": "eiffel-tower-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-eiffel-tower-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-eiffel-tower-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-eiffel-tower-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-eiffel-tower-svgrepo-com.svg"
         },
         {
           "label": "其他food-restaurant-svgrepo-com",
           "value": "food-restaurant-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-food-restaurant-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-food-restaurant-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-food-restaurant-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-food-restaurant-svgrepo-com.svg"
         },
         {
           "label": "其他game-elements-3-svgrepo-com",
           "value": "game-elements-3-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-game-elements-3-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-game-elements-3-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-game-elements-3-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-game-elements-3-svgrepo-com.svg"
         },
         {
           "label": "其他guitar-svgrepo-com",
           "value": "guitar-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-guitar-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-guitar-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-guitar-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-guitar-svgrepo-com.svg"
         },
         {
           "label": "其他gun-svgrepo-com-2",
           "value": "gun-svgrepo-com-2",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-gun-svgrepo-com-2.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-gun-svgrepo-com-2.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-gun-svgrepo-com-2.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-gun-svgrepo-com-2.svg"
         },
         {
           "label": "其他gun-svgrepo-com",
           "value": "gun-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-gun-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-gun-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-gun-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-gun-svgrepo-com.svg"
         },
         {
           "label": "其他jeep-svgrepo-com",
           "value": "jeep-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-jeep-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-jeep-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-jeep-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-jeep-svgrepo-com.svg"
         },
         {
           "label": "其他music-51",
           "value": "music-51",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-51.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-51.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-51.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-51.svg"
         },
         {
           "label": "其他music-52",
           "value": "music-52",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-52.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-52.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-52.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-52.svg"
         },
         {
           "label": "其他music-53",
           "value": "music-53",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-53.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-53.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-53.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-53.svg"
         },
         {
           "label": "其他music-54",
           "value": "music-54",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-54.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-54.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-54.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-54.svg"
         },
         {
           "label": "其他music-55",
           "value": "music-55",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-55.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-55.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-55.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-55.svg"
         },
         {
           "label": "其他music-56",
           "value": "music-56",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-56.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-56.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-56.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-56.svg"
         },
         {
           "label": "其他music-57",
           "value": "music-57",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-57.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-57.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-57.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-57.svg"
         },
         {
           "label": "其他music-58",
           "value": "music-58",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-58.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-58.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-58.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-58.svg"
         },
         {
           "label": "其他music-59",
           "value": "music-59",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-59.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-59.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-59.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-59.svg"
         },
         {
           "label": "其他music-60",
           "value": "music-60",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-60.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-music-60.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-60.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-music-60.svg"
         },
         {
           "label": "其他quaver-music-svgrepo-com",
           "value": "quaver-music-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-quaver-music-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-quaver-music-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-quaver-music-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-quaver-music-svgrepo-com.svg"
         },
         {
           "label": "其他robot-svgrepo-com",
           "value": "robot-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-robot-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-robot-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-robot-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-robot-svgrepo-com.svg"
         },
         {
           "label": "其他sing-svgrepo-com",
           "value": "sing-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-sing-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-sing-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-sing-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-sing-svgrepo-com.svg"
         },
         {
           "label": "其他suitcase-bag-2-svgrepo-com",
           "value": "suitcase-bag-2-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-suitcase-bag-2-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-suitcase-bag-2-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-suitcase-bag-2-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-suitcase-bag-2-svgrepo-com.svg"
         },
         {
           "label": "其他suitcase-luggage-svgrepo-com",
           "value": "suitcase-luggage-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-suitcase-luggage-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-suitcase-luggage-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-suitcase-luggage-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-suitcase-luggage-svgrepo-com.svg"
         },
         {
           "label": "其他swords-svgrepo-com",
           "value": "swords-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-swords-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-swords-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-swords-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-swords-svgrepo-com.svg"
         },
         {
           "label": "其他syrup-syrup-svgrepo-com",
           "value": "syrup-syrup-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-syrup-syrup-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-syrup-syrup-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-syrup-syrup-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-syrup-syrup-svgrepo-com.svg"
         },
         {
           "label": "其他taxi-svgrepo-com",
           "value": "taxi-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-taxi-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-taxi-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-taxi-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-taxi-svgrepo-com.svg"
         },
         {
           "label": "其他telephone-cellphone-svgrepo-com",
           "value": "telephone-cellphone-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-telephone-cellphone-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-telephone-cellphone-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-telephone-cellphone-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-telephone-cellphone-svgrepo-com.svg"
         },
         {
           "label": "其他tool-equipment-svgrepo-com",
           "value": "tool-equipment-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-tool-equipment-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-tool-equipment-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-tool-equipment-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-tool-equipment-svgrepo-com.svg"
         },
         {
           "label": "其他tool-svgrepo-com",
           "value": "tool-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-tool-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-tool-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-tool-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-tool-svgrepo-com.svg"
         },
         {
           "label": "其他wine-bottle-alcohol-drink-party-svgrepo-com",
           "value": "wine-bottle-alcohol-drink-party-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-alcohol-drink-party-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-alcohol-drink-party-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-alcohol-drink-party-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-alcohol-drink-party-svgrepo-com.svg"
         },
         {
           "label": "其他wine-bottle-heart-svgrepo-com",
           "value": "wine-bottle-heart-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-heart-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-heart-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-heart-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-heart-svgrepo-com.svg"
         },
         {
           "label": "其他wine-bottle-wine-svgrepo-com",
           "value": "wine-bottle-wine-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-wine-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-bottle-wine-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-wine-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-bottle-wine-svgrepo-com.svg"
         },
         {
           "label": "其他wine-svgrepo-com",
           "value": "wine-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-wine-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-wine-svgrepo-com.svg"
         },
         {
           "label": "其他yinyang-svgrepo-com",
           "value": "yinyang-svgrepo-com",
-          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-yinyang-svgrepo-com.svg",
-          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/9-other/other-yinyang-svgrepo-com.svg"
+          "tempUrl": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-yinyang-svgrepo-com.svg",
+          "src": "https://raw.githubusercontent.com/anyhuang/vue-fabric-editor-static/main/shape/10-other/other-yinyang-svgrepo-com.svg"
         }
       ]
     }
