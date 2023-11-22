@@ -51,9 +51,14 @@ const group = [
     dir: "8-hingin",
   },
   {
+    label: "fabric",
+    value: "fabric",
+    dir: "9-fabric",
+  },
+  {
     label: "其他",
     value: "other",
-    dir: "9-other",
+    dir: "10-other",
   },
 ];
 
